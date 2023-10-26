@@ -44,7 +44,6 @@ Bath City
 Man City
 Edinburgh City
 Bristol City
-****
 ```
 
 6) How many different teams have played in matches recorded in a French division?
